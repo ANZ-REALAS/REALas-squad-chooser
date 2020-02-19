@@ -2,7 +2,7 @@
 
 ![LICENSE](https://img.shields.io/github/license/heiswayi/random-name-picker)
 
-Forked and adapted to be used for work in the REALas team.
+Forked and adapted to be used for Unity Hour in the DoLorean Squad of the Home Loans tribe!
 
 [**Preview**](http://heiswayi.github.io/random-name-picker)
 
